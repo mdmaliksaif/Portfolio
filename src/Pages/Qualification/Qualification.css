@@ -1,0 +1,53 @@
+/* Education.css */
+
+.education {
+  /* background-color: #f7f7f7; */
+   /* Set your background color here */
+   background-color: var(--bg-shade);
+  padding: 40px 0; /* Adjust padding as needed */
+}
+
+.custom-vertical-timeline {
+  margin: 0 auto;
+}
+
+.vertical-timeline-element-title {
+  font-size: 1.2rem; /* Adjust font size as needed */
+}
+
+.vertical-timeline-element-subtitle {
+  font-size: 1rem; /* Adjust font size as needed */
+}
+
+/* Style for timeline icons */
+.vertical-timeline-element-icon {
+  font-size: 1.5rem; /* Adjust icon size as needed */
+}
+
+/* Style for the timeline content */
+.vertical-timeline-element-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background-color: white;
+  color: black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+  border-radius: 5px;
+  padding: 20px;
+}
+
+/* Style for the timeline date */
+.vertical-timeline-element-date {
+  color: #138781; /* Match the icon background color */
+}
+
+/* Style for the timeline arrow */
+.vertical-timeline::before {
+  background: #138781;
+   /* Match the icon background color */
+}
+
+/* Style for the timeline arrow on hover */
+.vertical-timeline::before:hover {
+  background: #138781; /* Match the icon background color */
+}

@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-2.png",
+      "title": "Front-End",
+      "description": "Html, Css, Javascript Css:Frameworks, Bootstrap, Tailwind Css, Material UI, JS:Libraries React  "
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Server Logic, Node.js, Express.js, Restful Api, Authentication,Jwtoken, Middlewares,MongoDb"
+    },
+    {
+      "id": "3",
+      "src": "./img/product-chain-1.png",
+      "title": "Data-Base",
+      "description": "MongoDb, mySql, Firebase, Database Design, Query Optimization, Database Administration, Crud Operations"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Data Structure & Algorithm",
+      "description": "Arrays[], String ,Collections, Stack, Queue, LinkedList, Map, Set, Trees, Bit Manipulation  "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/prt.png",
+      "title": "Portfolio",
+      "description": "A portfolio showcases a collection of one's work, projects, or achievements, often used for professional or personal presentations, providing a visual and descriptive overview of skills and accomplishments",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/inotebook.png",
+      "title": "InoteBook",
+      "description": "An iNotebook is a digital tool for virtual note-taking, task management, and efficient organization of information. It offers accessibility across devices and facilitates collaboration and synchronization.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/expense.png",
+      "title": "ExpenseTracker",
+      "description": "An expense tracker is a financial tool used to monitor and manage spending, helping individuals or businesses maintain a clear overview of their income and expenses, ultimately promoting better financial control and budgeting.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
